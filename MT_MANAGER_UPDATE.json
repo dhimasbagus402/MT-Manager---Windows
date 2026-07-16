@@ -2,5 +2,5 @@
   "version": "1.0",
   "url": "https://github.com/dhimasbagus402/MT-Manager---Windows/raw/refs/heads/main/Release/MTManager-Setup-1.exe",
   "sha256": "237750c3c7bfe05438f869957169012e8a3d2b980464272220dde0b7265c81c9",
-  "notes": "Perbaikan bug clear cache dan tampilan menu."
+  "notes": "Initial Release."
 }
